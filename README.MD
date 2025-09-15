@@ -1,5 +1,5 @@
 # Prompt Logger
-This project contains the scripts and an example package containing a form to illustrate how each prompt entered into a TotalAgility Gen AI Chat Control can be mapped to a TA variable for other use on the form using the ```Prompt entered``` TA event.
+This project contains the scripts and an example package containing a form to illustrate how each prompt entered into a TotalAgility Gen AI Chat Control can be mapped to a TA form variable for other use on the form, using the ```Prompt entered``` TA event.
 
 ## Setup:
 1. Add a VAR to hold the last prompt: ```lastPrompt```
